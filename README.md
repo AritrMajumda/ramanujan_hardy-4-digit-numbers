@@ -1,5 +1,5 @@
-# ramanujan_hardy-4-digit-numbers
-# It's applicable for 4 digit ramanujan Hardy Numbers ( 2 ways)
+# Ramanujan_Hardy-4-digit-numbers
+# This code is applicable for 4 digit Ramanujan Hardy Numbers ( 2 ways)
 
 ## Introduction
 
