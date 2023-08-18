@@ -25,11 +25,6 @@ Feel free to modify the script to explore higher Ramanujan-Hardy Numbers or make
 
 Contributions to this repository are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, please open an issue or create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this code as per the terms of the license.
-
----
 
 Thank you for checking out the Ramanujan-Hardy Number project! Consider leaving a star or sharing it with your friends if you find it interesting or helpful. Happy exploring of these intriguing numbers! If you have any questions or need further assistance, feel free to contact me.
 
